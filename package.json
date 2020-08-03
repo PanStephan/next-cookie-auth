@@ -1,0 +1,22 @@
+{
+  "name": "next-cookie-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "nodemon server.js"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
